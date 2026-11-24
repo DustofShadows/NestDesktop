@@ -12,13 +12,6 @@ keyboard dismissal and quiet startup. A second-PC user trial also reported
 that the app worked well, and identified installer text clipping addressed in
 0.2.11; this is not a claim of exhaustive compatibility testing.
 
-## Remaining coverage
-
-- More Windows 10/11 builds and 100%, 150% and 200% display configurations.
-- Explorer restart, sleep/resume, monitor changes and unusual desktop layouts.
-- Keyboard-only use, screen readers, high contrast and reduced motion.
-- A complete clean-machine install, shortcut recovery and uninstall cycle.
-
 ## Shortcut behaviour
 
 Selected personal Desktop `.lnk` and `.url` files can be collected. Other
