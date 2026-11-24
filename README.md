@@ -1,7 +1,7 @@
 # NestDesktop
 
-A crowded Windows desktop is hard to keep organised. NestDesktop allows you to
-group apps and shortcuts into compact, expandable folders directly on the desktop.
+A crowded desktop is hard to keep organised. NestDesktop allows you to
+group apps and shortcuts into compact, expandable folders directly on the Windows desktop.
 
 <!-- nestdesktop-demo:start -->
 
