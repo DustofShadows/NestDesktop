@@ -1,0 +1,11 @@
+/target/
+/dist/
+/artifacts/
+*.pdb
+*.log
+/.tools/
+/.vs/
+/installer/.build/
+__pycache__/
+*.py[cod]
+

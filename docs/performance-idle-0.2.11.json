@@ -1,0 +1,1453 @@
+{
+  "schema_version": 1,
+  "started_utc": "2026-11-23T21:06:13.4753286Z",
+  "duration_seconds": 300.0056528,
+  "sample_interval_seconds": 5,
+  "sample_count": 61,
+  "includes_recovery_helper": true,
+  "windows": {
+    "caption": "Microsoft Windows 11 Pro for Workstations",
+    "build": "26200",
+    "version": "10.0.26200"
+  },
+  "processor": {
+    "logical_processors": 16,
+    "name": "AMD Ryzen 7 9700X 8-Core Processor"
+  },
+  "executable_bytes": 1045504,
+  "executable_sha256": "5007c45e3369d3d1ba613d2efe3d8de5f70d69ad59cad880d9a01b4633994b5c",
+  "cpu_seconds": 0.0,
+  "average_cpu_percent_one_core": 0.0,
+  "average_cpu_percent_machine": 0.0,
+  "combined_working_set": {
+    "min_bytes": 49041408,
+    "median_bytes": 49045504,
+    "max_bytes": 54644736
+  },
+  "combined_private_working_set": {
+    "min_bytes": 1331200,
+    "median_bytes": 1335296,
+    "max_bytes": 6934528
+  },
+  "combined_private_committed": {
+    "min_bytes": 13475840,
+    "median_bytes": 13475840,
+    "max_bytes": 13475840
+  },
+  "samples": [
+    {
+      "elapsed_seconds": 0.0,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 45617152,
+          "private_working_set_bytes": 6496256,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 9027584,
+          "private_working_set_bytes": 438272,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 54644736,
+      "private_working_set_bytes": 6934528,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 5.0102834,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 45617152,
+          "private_working_set_bytes": 6496256,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 9027584,
+          "private_working_set_bytes": 438272,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 54644736,
+      "private_working_set_bytes": 6934528,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 10.0079143,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 45617152,
+          "private_working_set_bytes": 6496256,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 9027584,
+          "private_working_set_bytes": 438272,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 54644736,
+      "private_working_set_bytes": 6934528,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 15.0086356,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 45617152,
+          "private_working_set_bytes": 6496256,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 9027584,
+          "private_working_set_bytes": 438272,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 54644736,
+      "private_working_set_bytes": 6934528,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 20.0125107,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40349696,
+          "private_working_set_bytes": 1228800,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49041408,
+      "private_working_set_bytes": 1331200,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 25.0043221,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 30.0073658,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 35.0081042,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 40.0239863,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 45.0016759,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 50.0129652,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 55.0094936,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 60.0107591,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 65.0137098,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 70.0094285,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 75.0068364,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 80.0022895,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 85.0135941,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 90.0238266,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 95.0048079,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 100.0086043,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 105.0011655,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 110.0248846,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 115.0128525,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 120.0071814,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 125.0073108,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 130.0121861,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 135.0107576,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 140.0010462,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 145.0139867,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 150.0078967,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 155.012438,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 160.0144148,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 165.0148277,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 170.0013246,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 175.0013495,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 180.0130406,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 185.0012252,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 190.008602,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 195.0074491,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 200.0074424,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 205.0029833,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 210.0148374,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 215.00124,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 220.006954,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 225.005525,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 230.0042099,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 235.0003171,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 240.0134715,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 245.0284728,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 250.0132854,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 255.0021545,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 260.0143857,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 265.0098094,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 270.0142523,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 275.0099937,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 280.000757,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 285.0015114,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 290.0092724,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 295.014142,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    },
+    {
+      "elapsed_seconds": 300.0056528,
+      "processes": [
+        {
+          "role": "organizer",
+          "cpu_seconds": 0.875,
+          "working_set_bytes": 40353792,
+          "private_working_set_bytes": 1232896,
+          "private_committed_bytes": 11845632
+        },
+        {
+          "role": "recovery_helper",
+          "cpu_seconds": 0.0,
+          "working_set_bytes": 8691712,
+          "private_working_set_bytes": 102400,
+          "private_committed_bytes": 1630208
+        }
+      ],
+      "cpu_seconds": 0.875,
+      "working_set_bytes": 49045504,
+      "private_working_set_bytes": 1335296,
+      "private_committed_bytes": 13475840
+    }
+  ],
+  "application_version": "0.2.11",
+  "workload": {
+    "desktop_groups": 5,
+    "collected_shortcuts": 53,
+    "folder_panels_open": false,
+    "settings_open": false,
+    "tile_mouse_events_during_test": 0,
+    "hover_open_enabled": true,
+    "startup_excluded": true
+  },
+  "description": "Read-only idle observation of the existing installed app and its sleeping recovery helper; no app commands were sent inside the timed interval."
+}
