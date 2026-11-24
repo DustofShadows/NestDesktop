@@ -54,6 +54,8 @@ and can also be exported.
 If NestDesktop is useful to you, I'd be happy if you could support the development
 of my further projects on [Ko-fi](https://ko-fi.com/leowerner).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A5N6234VSH)
+
 Unfortunately, I won't be able to actively support NestDesktop beyond my own
 needs, but please feel free to clone the repository and adjust it to your needs.
 I released it under the MIT open-source licence.
